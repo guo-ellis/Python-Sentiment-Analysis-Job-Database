@@ -1,8 +1,4 @@
-# 1. Please complete the following:
-#   Your First name and Last Name: Ellis Guo
-#   Your Student ID: 261133980
-
-# 2. Write your program here: 
+# Ellis Guo
 import pickle
 
 def read_text(text_path):
